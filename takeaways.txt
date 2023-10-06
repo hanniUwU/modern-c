@@ -1,0 +1,22 @@
+1. C and C++ are different: don't mix them, and don't mix them up.
+2. Don't panic. (said Dumbledore calmly)
+3. C is an imperative programming language.
+4. C is a compiled programming language.
+5. A correct C program is portable between different platforms.
+6. A C program should compile creanly without warnings.
+7. Punctuation characters can be used with several different meanings.
+8. All identifiers in a program have to be declared.
+9. Identifiers may have several consistent declarations.
+10. Declarations are bound to the scope in which they appear.
+11. Declarations specify identifiers, whereas definitions specify objects.
+12. An object is defined at the same time it is initialized.
+13. Missing elements in initializers default to zero.
+14. For an array with n elements, the first element has index 0, and the last his index n-1.
+15. Each object or function must have exactly one definition.
+16. Domain iterations should be coded with a "for" statement.
+17. The loop variable should be defined in the initial port of a "for".
+------------------------------------------------------------------------------------------------------------------------
+18. The value "0" represents logical false.
+19. Any value different from "0" represents logical true.
+20. Don't compare to "0", "false" or "true".
+21. All scalars have a truth value.
